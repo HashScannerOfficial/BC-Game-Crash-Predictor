@@ -60,7 +60,7 @@ Once you have the Bc game Predictor or demo running, follow these steps:
 Its an algorthm use to decrypt very hard seeds with SHA256 encryption to estimate crash points
 
 **Q: Is there an APK version of bc.game crash predictor?**  
-Yes. No, apk means it runs on phone. and SHA256 algorithm cant be decrypted with phone it needs some sophisticated measures be aware.
+No, apk means it runs on phone. and SHA256 algorithm cant be decrypted with phone it needs some sophisticated measures be aware.
 
 **Q: Is it illegal to use this scanner??**  
 All the tools and information contained in our website is for educational and informational purposes only..
