@@ -68,7 +68,7 @@ All the tools and information contained in our website is for educational and in
 **Q: Can this tool inspect bc.game fairness seeds?**  
 The repo includes guides on **Bc game fairness seed** formats and helper tools for **server seed hash decrypt** that explain how fairness data is published; use these to learn about transparency protocols.
 
-**Q: How accurate is the Stake Crash Predictor?**  
+**Q: How accurate is the bcgame crash predictor?**  
 Outputs are probabilistic. While the tool uses historical data, AI summaries, and hash-inspection helpers, no predictor guarantees outcomes. Treat outputs as educational guidance for **crash strategy**, testing, and refinement.
 
 
