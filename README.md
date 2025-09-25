@@ -85,7 +85,7 @@ Join the project channels listed on the downloads page for release notes, suppor
 
 ## Contributing
 
-We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/HashScannerOfficial/BC-Game-Crash-Predictor/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you're interested in improving the **Bc Game Crash Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/HashScannerOfficial/BC-Game-Crash-Predictor/blob/main/CONTRIBUTING.md).
 
 ## License
 
@@ -93,4 +93,4 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ---
 
-For further information and updates, visit our official website or engage with us through GitHub Discussions. Thank you for your interest in the **Aviator Predictor**! Happy betting!
+For further information and updates, visit our official website or engage with us through GitHub Discussions. Thank you for your interest in the **Bc game predictor**! Happy betting!
