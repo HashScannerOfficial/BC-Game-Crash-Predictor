@@ -3,10 +3,9 @@
 _Explore how the BC Game crash predictor works. Learn crash strategies, SHA256 decryption basics, and safe testing to evaluate any crash game predictor.._
 
 
-<h3 align="center">
-  <img src='https://decryptor.net/wp-content/uploads/2025/09/Bc-game-crash-predictor.jpg'>
-</h3>
-
+<p align="center">
+  <img src="https://decryptor.net/wp-content/uploads/2025/09/Bc-game-crash-predictor.jpg" alt="GUI of bc game crash predictor" width="35%">
+</p>
 
 
 <h2 align="center">
